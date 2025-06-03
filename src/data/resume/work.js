@@ -46,7 +46,7 @@ const work = [
   },
   {
     name: 'The 10x Academy',
-    position: 'Mentor',
+    position: 'Technical Instructor',
     url: 'https://www.linkedin.com/company/the-10x-academy',
     startDate: '2021-12-15',
     endDate: '2022-05-15',
