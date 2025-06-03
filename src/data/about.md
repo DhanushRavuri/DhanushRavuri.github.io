@@ -9,8 +9,14 @@ I am a SDE-2 at Flipkart Internet Private Limited, a subsidiary of Walmart Inc.,
 - **Sep 2024 – Aug 2025**  
   _SDE-2 @ Flipkart_
 
-- **Jun 2022 – Sep 2024**  
+- **Jun 2022 – Aug 2024**  
   _SDE-1 @ Flipkart_
+
+- **Dec 2021 – May 2022**  
+  _Technical Instructor @ The 10xAcademy_
+
+- **Jun 2021 – Aug 2021**  
+  _Deep Learning Intern @ Spur.fit_
 
 - **Jul 2018 – May 2022**  
   _B.Tech in Mechanical Engineering @ IIT Roorkee_
