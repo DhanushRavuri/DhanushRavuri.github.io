@@ -38,6 +38,9 @@ const Index = () => (
         <Link to="/contact">contact</Link> me.
       </p>
       <p>
+        Google Analytics recorded your view. Thanks for stopping by!👋
+      </p>
+      <p>
         {' '}
         Source available{' '}
         <a href="/personal-website">here</a>.
